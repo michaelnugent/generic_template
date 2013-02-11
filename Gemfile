@@ -42,3 +42,4 @@ gem 'devise'
 gem 'omniauth'
 gem 'omniauth-facebook'
 
+gem 'bootstrap-sass'
